@@ -1,8 +1,8 @@
 ---
-title: Contact Me!
+title: Contact Me
 sections:
   - type: hero_section
-    title: Contact Me!
+    title: Contact Me
     align: center
   - type: contact_section
 seo:

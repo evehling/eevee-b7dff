@@ -1,35 +1,24 @@
 {
-    "title": "Portfolio Site",
+    "title": "Portfolio - Elisabeth Vehling",
     "path_prefix": "/",
     "header": {
-        "title": "Elisabeth",
+        "title": "Elisabeth Vehling",
         "has_nav": true,
         "nav_links": [
             {
                 "label": "About",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Projects",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Resume",
-                "url": "/style-guide",
+                "label": "Projects",
+                "url": "/featuredprojects",
                 "style": "link"
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/elisabeth-vehling/",
-                "style": "secondary",
-                "new_window": true
+                "label": "Blog",
+                "url": "https://medium.com/@evehling",
+                "style": "link"
             },
             {
                 "label": "GitHub",
